@@ -11,7 +11,7 @@ UnityChan_1_2_1.unitypackage
 Kinect for Windows Unity Pro パッケージ
 https://developer.microsoft.com/ja-jp/windows/kinect
 
-Kinect.2.0.1410.19000.unitypackage
+Kinect.2.0.1410.19000.unitypackage & KinectView
 
 EasyMotionRecorder
 https://github.com/duo-inc/EasyMotionRecorder
