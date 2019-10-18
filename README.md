@@ -1,6 +1,6 @@
-## KinectPoseProject
+# KinectPoseProject
 
-# prz import
+## prz import
 
 ユニティちゃん 3Dモデルデータ
 http://unity-chan.com/contents/guideline/
@@ -13,7 +13,7 @@ https://developer.microsoft.com/ja-jp/windows/kinect
 EasyMotionRecorder
 https://github.com/duo-inc/EasyMotionRecorder
 
-# 参考文献
+## 参考文献
 
 https://qiita.com/yuzupon/items/4528f7fc09a42fb8af2e
 
