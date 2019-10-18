@@ -28,6 +28,7 @@ sysinfo.txt
 *.apk
 *.unitypackage
 Assets/KinectView/
+Assets/Plugins/
 Assets/Standard Assets/
 Assets/UnityChan/
 Assets/EasyMotionRecorder/
