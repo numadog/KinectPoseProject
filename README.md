@@ -1,3 +1,5 @@
+Freezing Does not move
+
 # KinectPoseProject
 
 ## prz import
