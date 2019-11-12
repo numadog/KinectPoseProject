@@ -1,4 +1,4 @@
-Freezing Does not move
+Freezing Doesn't move
 
 # KinectPoseProject
 
